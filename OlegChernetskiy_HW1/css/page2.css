@@ -1,0 +1,34 @@
+h1{
+	  padding: 10px; /* Поля вокруг текста */
+	  border-bottom: 2px inset teal; /* Параметры рамки */
+	  margin-bottom: 50px; /* Отступ внизу */
+	  color: purple; /* Цвет текста */
+	  }
+    body{
+        background: url(../images/kometa_galleya.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        }
+    p{
+     font-weight: 600; /* Толщина шрифта */
+	 margin-left: 10%; /* Отступ слева */
+	 margin-right: 10%; /* Оступ справа */
+	 color: teal; /* Цвет текста */
+	 }
+	p.fl:first-letter{
+	                 color: orange; /* Цвет первой буквы */
+	                 font-size: 200%; /* Размер первой буквы */
+					 }
+	p.np{
+	    margin-top: 50px; /* Отступ сверху */
+		text-align: center; /* Расположение текста по центру */
+		}
+	a:link {
+           color: aqua; /* Цвет ссылок */
+           padding: 2px; /* Поля вокруг текста */ 
+   }
+    a:hover {
+           background: yellow; /* Цвет фона под ссылкой */ 
+           color: blue; /* Цвет ссылки */
