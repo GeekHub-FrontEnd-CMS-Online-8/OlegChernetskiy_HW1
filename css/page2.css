@@ -17,7 +17,7 @@ h1{
 	 margin-right: 10%; /* Оступ справа */
 	 color: teal; /* Цвет текста */
 	 }
-	p.fl:first-letter{
+	p.f1:first-letter{
 	                 color: orange; /* Цвет первой буквы */
 	                 font-size: 200%; /* Размер первой буквы */
 					 }
